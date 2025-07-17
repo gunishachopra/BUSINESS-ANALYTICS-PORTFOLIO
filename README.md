@@ -44,8 +44,13 @@ Tools: Python
 Combined sentiment data (Fear & Greed Index) with trader performance to analyze behavioral responses to market cycles. Insights can inform risk mitigation strategies and trading model calibration in volatile environments.
 
 ## 📱 Instagram User Engagement Analysis (https://github.com/gunishachopra/Instagram-user-engagement-analysis)
-Tools: SQL
+Tools: SQL,Excel
 Analyzed user behavior and engagement metrics to support marketing strategy, user retention, and investor reporting. Delivered insights into loyalty, inactivity, hashtag trends, and bot detection to optimize campaign performance and platform health.
+
+## ⚙️ Operational Metric Spike Analysis
+Tools: SQL, Excel
+Investigated dips in engagement and throughput across support and product teams. Delivered metric-spike insights, retention trends, and device-level usage patterns to help ops teams react faster and align KPIs with strategic growth goals.
+
 
 
 ### 📈 More Coming Soon
