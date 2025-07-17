@@ -7,6 +7,9 @@ Welcome! This portfolio showcases business analytics projects designed to solve 
 
 My work focuses on turning raw data into clear insights and dashboards that inform leadership, improve KPIs, and guide business expansion. Each project reflects my ability to blend analytical rigor with business intuition to drive tangible impact.
 
+# 👤 About Me
+I'm an MBA candidate specializing in Business Analytics with a passion for turning data into strategic advantage. My work bridges the gap between data and decision-making, helping businesses uncover trends, optimize processes, and drive growth. With hands-on experience across finance, HR, operations, and product domains, I apply tools like SQL, Python, Excel, Power BI, and Tableau to deliver insights that matter.
+
 ### 🎬 Entertainment Industry Insights (IMDb) (https://github.com/gunishachopra/entertainment-data-analysis-imdb)
 Tools: Python, SQL, Excel
 Analyzed 5,000+ movies to uncover genre trends, audience preferences, and director performance. Insights enabled content teams to align production strategy with data-backed demand trends and maximize ROI in media investments.
