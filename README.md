@@ -47,7 +47,7 @@ Combined sentiment data (Fear & Greed Index) with trader performance to analyze 
 Tools: SQL,Excel
 Analyzed user behavior and engagement metrics to support marketing strategy, user retention, and investor reporting. Delivered insights into loyalty, inactivity, hashtag trends, and bot detection to optimize campaign performance and platform health.
 
-## ⚙️ Operational Metric Spike Analysis
+## ⚙️ Operational Metric Spike Analysis (https://github.com/gunishachopra/operational-metric-spike-analysis/tree/main)
 Tools: SQL, Excel
 Investigated dips in engagement and throughput across support and product teams. Delivered metric-spike insights, retention trends, and device-level usage patterns to help ops teams react faster and align KPIs with strategic growth goals.
 
